@@ -1,0 +1,134 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.4.2.543
+MinVersion = 2.5
+OS = Windows NT 6.2 
+
+[Axes]
+xMin = -2.05206645506201
+xMax = 11.4226002116047
+xTickUnit = 1
+xGridUnit = 1
+xShowGrid = 1
+xAutoTick = 0
+xAutoGrid = 0
+xLabel = +1
+yMin = -8.46749031815802
+yMax = 7.728509681842
+yTickUnit = 1
+yGridUnit = 1
+yShowGrid = 1
+yAutoTick = 0
+yAutoGrid = 0
+yLabel = j
+AxesColor = clBlack
+GridColor = clSilver
+NumberFont = Verdana,12,clBlack
+LabelFont = Verdana,16,clBlack,B
+ShowLegend = 1
+Radian = 1
+
+[PointSeries1]
+FillColor = clBlack
+LineColor = clBlack
+Size = 3
+Style = 7
+LineSize = 3
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 0,0;9.1,0;
+LegendText = I1
+
+[PointSeries2]
+FillColor = clBlack
+LineColor = clBlack
+Size = 3
+Style = 7
+LineSize = 3
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 0,0;0,5.2;
+LegendText = I2
+
+[Label1]
+Placement = 0
+Pos = 8.61213494737064;-0.522811884313987
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fnil\\fcharset0 Verdana;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs32 I1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label2]
+Placement = 0
+Pos = 0.214504812947015;5.34809172933933
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fnil\\fcharset0 Verdana;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs32 I2\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[PointSeries3]
+FillColor = clBlack
+LineColor = clBlack
+Size = 3
+Style = 7
+LineSize = 3
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 0,0;1.096,-4.158;
+LegendText = I3
+
+[Label3]
+Placement = 0
+Pos = 1.2473684123681;-3.09776960960053
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fnil\\fcharset0 Verdana;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs32 I3\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[PointSeries4]
+FillColor = clBlack
+LineColor = clBlack
+Size = 3
+Style = 7
+LineSize = 3
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 0,0;10.149,1.024;
+LegendText = I
+
+[Label4]
+Placement = 0
+Pos = 9.88450314955604;2.36114076800694
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fnil\\fcharset0 Verdana;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs32 I\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[PointSeries5]
+FillColor = clBlack
+LineColor = clBlack
+Size = 3
+Style = 7
+LineSize = 3
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 0,0;4.7,0;
+LegendText = U
+
+[Label5]
+Placement = 0
+Pos = 4.40583536132244;-0.454146344973013
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fnil\\fcharset0 Verdana;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs32 U\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 5
+FuncCount = 0
+PointSeriesCount = 5
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+

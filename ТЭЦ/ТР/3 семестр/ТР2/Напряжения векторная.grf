@@ -1,0 +1,107 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.4.2.543
+MinVersion = 2.5
+OS = Windows NT 6.2 
+
+[Axes]
+xMin = -12.7194717247337
+xMax = 20.2319400814504
+xTickUnit = 1
+xGridUnit = 1
+xLabel = +1
+yMin = -27.2807198721246
+yMax = 5.67069193406288
+yTickUnit = 2
+yGridUnit = 2
+yLabel = j
+AxesColor = clBlack
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+
+[PointSeries1]
+FillColor = clBlack
+LineColor = clBlack
+Size = 1
+Style = 7
+LineSize = 2
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 0,0;2.163,-12.911;
+LegendText = φ1
+
+[Label1]
+Placement = 0
+Pos = 1.66146585639382;-12.7559758613666
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fswiss\\fcharset161{\\*\\fname Arial;}Arial Greek;}{\\f1\\fswiss\\fcharset0 Arial;}{\\f2\\fnil Verdana;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\lang1033\\f0\\fs20\\'f6\\f1 1\\lang1049\\f2\\fs32\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[PointSeries2]
+FillColor = clBlack
+LineColor = clBlack
+Size = 1
+Style = 7
+LineSize = 2
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 2.163,-12.911;9.528,-9.372;
+LegendText = φ6
+
+[Label2]
+Placement = 0
+Pos = 9.17623693500563;-8.31901061592247
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fnil\\fcharset161{\\*\\fname Arial;}Arial Greek;}{\\f1\\fnil\\fcharset0 Arial;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs20\\'f6\\lang1033\\f1 6\\lang1049\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[PointSeries3]
+FillColor = clBlack
+LineColor = clBlack
+Size = 1
+Style = 7
+LineSize = 2
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 9.528,-9.372;10.778,-24.341;
+LegendText = φ4
+
+[Label3]
+Placement = 0
+Pos = 10.9223334945802;-23.784109994388
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fnil\\fcharset161{\\*\\fname Arial;}Arial Greek;}{\\f1\\fnil\\fcharset0 Arial;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs20\\'f6\\lang1033\\f1 4\\lang1049\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[PointSeries4]
+FillColor = clBlack
+LineColor = clBlack
+Size = 1
+Style = 7
+LineSize = 2
+LineStyle = 0
+LabelPosition = 1
+PointCount = 2
+Points = 10.778,-24.341;0,0;
+LegendText = φ5
+
+[Label4]
+Placement = 0
+Pos = 0.148390824477207;0.809556676368436
+Text = {\\rtf1\\ansi\\ansicpg1251\\deff0\\deflang1049{\\fonttbl{\\f0\\fnil\\fcharset161{\\*\\fname Arial;}Arial Greek;}{\\f1\\fnil\\fcharset0 Arial;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs20\\'f6\\lang1033\\f1 5\\lang1049\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 4
+FuncCount = 0
+PointSeriesCount = 4
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+
